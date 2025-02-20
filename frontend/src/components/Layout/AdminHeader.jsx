@@ -14,7 +14,7 @@ const AdminHeader = () => {
       <div>
         <Link to="/">
           <img
-            src="https://shopo.quomodothemes.website/assets/images/logo.svg"
+            src="https://cdn.prod.website-files.com/6668551da3a255b9631ffddf/6685534e29ac3b3b7e980b6d_Dropship%20Logo.svg"
             alt=""
           />
         </Link>

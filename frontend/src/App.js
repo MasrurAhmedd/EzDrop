@@ -13,7 +13,7 @@ import {
   CheckoutPage,
   PaymentPage,
   OrderSuccessPage,
-  ProductDetailsPage,
+  ProductDetailsPage,  
   ProfilePage,
   ShopCreatePage,
   SellerActivationPage,
